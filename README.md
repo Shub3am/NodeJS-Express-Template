@@ -9,7 +9,7 @@
 
 > Clone the repository
 
-``` git clone https://github.com/YOUR_USERNAME/nodejs-express-template.git ```
+``` git clone https://github.com/shub3am/nodejs-express-template.git ```
 
 
 > Install Packages
